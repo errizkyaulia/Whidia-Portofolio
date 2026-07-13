@@ -1,0 +1,3 @@
+module.exports=[903363,a=>{"use strict";var b=a.i(907997);a.i(480892);var c=a.i(941107),d=a.i(668690),e=a.i(92515);a.s(["default",0,function(){return(0,b.jsxs)(c.Column,{as:"section",fill:!0,center:!0,paddingBottom:"160",children:[(0,b.jsx)(e.Text,{marginBottom:"s",variant:"display-strong-xl",children:"404"}),(0,b.jsx)(d.Heading,{marginBottom:"l",variant:"display-default-xs",children:"Page Not Found"}),(0,b.jsx)(e.Text,{onBackground:"neutral-weak",children:"The page you are looking for does not exist."})]})}])},517537,a=>{a.n(a.i(903363))}];
+
+//# sourceMappingURL=src_app_not-found_tsx_1863-sq._.js.map
