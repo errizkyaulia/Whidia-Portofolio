@@ -1,3 +1,0 @@
-module.exports=[911737,a=>{"use strict";var b=a.i(187924);a.i(589339);var c=a.i(83924),d=a.i(300799);a.i(947366);var e=a.i(709371);a.s(["default",0,function(){return(0,b.jsx)(d.MasonryGrid,{columns:2,s:{columns:1},children:e.gallery.images.map((a,d)=>(0,b.jsx)(c.Media,{enlarge:!0,priority:d<10,sizes:"(max-width: 560px) 100vw, 50vw",radius:"m",aspectRatio:"horizontal"===a.orientation?"16 / 9":"3 / 4",src:a.src,alt:a.alt},d))})}])}];
-
-//# sourceMappingURL=src_components_gallery_GalleryView_tsx_0a_hk28._.js.map
