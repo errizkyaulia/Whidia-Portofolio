@@ -5,7 +5,7 @@ const person: Person = {
   firstName: "Whidia",
   lastName: "Banjarsari",
   name: "Whidia Banjarsari",
-  role: "Intuitive Guide",
+  role: "Certified Healer . Intuitive Guide . Empowerer of Soul",
   avatar: "/images/avatarku.jpg",
   email: "whidiabanjarsari@gmail.com",
   location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
